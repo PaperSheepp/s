@@ -22,4 +22,3 @@ ReactDOM.render(
   />,
   document.getElementById("root")
 );
-npm run dev
